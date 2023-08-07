@@ -4,3 +4,7 @@ english
 social
 telugu
 hindi
+datascience
+physics
+csc
+civil
